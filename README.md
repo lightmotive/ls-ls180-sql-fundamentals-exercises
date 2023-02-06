@@ -1,1 +1,1 @@
-# ls-ls180-sql-fundamentals-exercises
+# Launch School - LS180 SQL Fundamentals - Exercises
