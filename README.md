@@ -1,0 +1,1 @@
+# ls-ls180-sql-fundamentals-exercises
