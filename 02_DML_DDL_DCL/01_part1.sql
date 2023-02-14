@@ -6,7 +6,7 @@ ALTER TABLE
 DROP DATABASE
 
 -- Data Manipulation Language (DML)
--- A SQL sub-language for CRUD operations: Create, Retrieve, Update, Delete.
+-- A SQL sub-language for data CRUD operations: Create, Retrieve, Update, Delete.
 -- Common statement keywords:
 INSERT INTO
 SELECT
