@@ -1,0 +1,2 @@
+ALTER TABLE planets
+ADD COLUMN star_id bigint NOT NULL REFERENCES stars (id) ON DELETE CASCADE;
